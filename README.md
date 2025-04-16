@@ -36,9 +36,9 @@ Make the website visually appealing and functional across all devices. <br>
 
 # 🧰 Resources
 
-🗺️ Site Map = https://www.gloomaps.com/gZHTswPQpW  <br>
-🎯 Wireframe Design = https://drive.google.com/file/d/1m_Fw6guILwGThqvdNR1DwIGX1jeU0oaN/view?usp=sharing <br>
-🎨 Figma UI Design = https://www.figma.com/design/OGc2VF5rR3h9UN2oHwxxkX/MyPersonalWebsite?node-id=0-1&p=f&t=eWZ1NhQYIbGuJEQr-0 <br>
+🗺️ Site Map = https://www.gloomaps.com/gZHTswPQpW  <br><br>
+🎯 Wireframe Design = https://drive.google.com/file/d/1m_Fw6guILwGThqvdNR1DwIGX1jeU0oaN/view?usp=sharing <br><br>
+🎨 Figma UI Design = https://www.figma.com/design/OGc2VF5rR3h9UN2oHwxxkX/MyPersonalWebsite?node-id=0-1&p=f&t=eWZ1NhQYIbGuJEQr-0 <br><br>
 
 # 🛠️ Technologies
 

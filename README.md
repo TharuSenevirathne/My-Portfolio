@@ -20,4 +20,3 @@
 1.Frontend: HTML, CSS, JavaScript <br>
 2.Animations: CSS transitions <br>
 3.Hosting: GitHub Pages / Vercel <br>
-

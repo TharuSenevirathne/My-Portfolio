@@ -7,8 +7,7 @@
 5. Encourage Communication <br>
 6. Keep Portfolio Up to Date <br>
 7. Showcase Achievements <br>
-8. Use Clear CTAs <br>
-9. Ensure Responsive Design <br>
+8. Ensure Responsive Design <br>
 
 # 🧰 Resources
 
